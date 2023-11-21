@@ -1,0 +1,17 @@
+.vis-timeline {
+  background-color: beige;
+  border-color: black;
+}
+
+.vis-item {
+  border-color: black;
+}
+
+.vis-item.vis-range {
+  border-radius: 10px;
+}
+
+.vis-item:hover{
+  border-width: 3px;
+  z-index: 1000!important;
+}
